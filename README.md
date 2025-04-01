@@ -26,9 +26,9 @@ This project focuses on cleaning and standardizing an Audible dataset using Powe
 
 🔗 Connect with Me:
 
-🔗 GitHub: wwww.github.com/nikhiltake
+🔗 GitHub Profile:https://github.com/nikhiltake
 
-🔗 LinkedIn: wwww.linkedin.com/in/nikhil-take-ab26aa270
+🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
 
 
 🚀 This project enhances data preprocessing skills using Power Query in Excel, making the dataset ready for meaningful analysis!
