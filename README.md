@@ -61,8 +61,8 @@ This project focuses on cleaning and standardizing Audible audiobook data using 
 
 If you have any suggestions, improvements, or want to collaborate, feel free to connect! 🚀
 
-🔗 GitHub Profile: github.com/nikhiltake
+🔗 GitHub Profile:https://github.com/nikhiltake
 
-🔗 LinkedIn: linkedin.com/in/nikhil-take-ab26aa270
+🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
 
 #DataCleaning #Excel #PowerQuery #DataTransformation #MicrosoftExcel #GitHub #DataAnalysis
