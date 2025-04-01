@@ -1,34 +1,68 @@
 # Audible-Data-Analysis-
 
-📌 Audible Dataset Cleaning and Standardization
+🔍 Audible Data Cleaning & Transformation using Excel (Power Query) 🎧📊
 
-This project focuses on cleaning and standardizing an Audible dataset using Power Query Editor in Excel. The dataset was refined to ensure consistency, accuracy, and proper formatting for analysis.
+📌 Project Overview
 
-🔹 Key Data Cleaning Tasks:
+This project focuses on cleaning and standardizing Audible audiobook data using Microsoft Excel and Power Query Editor. The dataset was refined to ensure accuracy, consistency, and better usability for further analysis.
 
-✔ Standardized Name Column – Applied title casing for uniformity.
+📊 Key Features & Implementation
 
-✔ Separated Author Names – Extracted first and last names using a delimiter.
+🔹 Data Cleaning & Standardization
 
-✔ Formatted Release Date – Ensured DD-MM-YYYY format using a formula.
+✔ Removed Unnecessary Text from Author Names – Extracted first and last names using a delimiter.
 
-✔ Converted Time to Duration Format – Transformed audiobook durations into an Excel-recognized format.
+✔ Standardized Name Formatting – Applied title casing for consistency.
 
-✔ Validated Price Column – Converted to numeric format and identified non-numeric values.
+✔ Ensured Consistent Date Format – Converted all dates to DD-MM-YYYY format
 
-✔ Transformed Ratings – Converted text ratings (e.g., "5 out of 5 stars") to numeric values.
+✔ Converted Time Column to Duration Format – Transformed text-based time into a proper duration format.
 
-✔ Split Narrator Column – Divided multiple narrators into separate columns.
+✔ Validated Price Data – Ensured all price values were numeric and formatted with two decimal places.
 
-✔ Merged Release Date & Language – Created a new column releaseinfo in "DD-MM-YYYY, Language" format.
+✔ Converted Ratings to Numeric Format – Extracted numerical values from text-based ratings, replacing "Not rated yet" with 0.
 
-✔ Formatted Currency Values – Ensured all prices are displayed with two decimal places.
+✔ Split Multiple Narrators – Separated multiple narrators into individual columns.
 
-🔗 Connect with Me:
+✔ Merged Release Date & Language – Created a structured releaseinfo column for clarity.
 
-🔗 GitHub Profile:https://github.com/nikhiltake
+🛠 Tech Stack & Skills Used
 
-🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
+✅ Microsoft Excel – Data Cleaning, Transformation
+
+✅ Power Query Editor – Data Processing, Custom Formulas
+
+✅ Excel Functions – INDEX & MATCH, Date Formatting, Text Splitting
+
+✅ Conditional Formatting – Highlighting Inconsistencies
+
+✅ Logical Functions – Data Validation & Transformation
+
+📂 Repository Structure
+
+📁 Data/ → Raw & cleaned datasets
+
+📁 PowerQueryScripts/ → Transformation scripts used in Power Query
+
+📁 Docs/ → Project documentation and insights
 
 
-🚀 This project enhances data preprocessing skills using Power Query in Excel, making the dataset ready for meaningful analysis!
+🚀 How to Use?
+
+1️⃣ Download the dataset from the Data/ folder.
+
+2️⃣ Open the Excel file and navigate to the Power Query Editor to view transformations.
+
+3️⃣ Modify existing transformations or add new steps based on requirements.
+
+4️⃣ Explore different columns and apply filters for better analysis.
+
+📢 Let's Connect!
+
+If you have any suggestions, improvements, or want to collaborate, feel free to connect! 🚀
+
+🔗 GitHub Profile: github.com/nikhiltake
+
+🔗 LinkedIn: linkedin.com/in/nikhil-take-ab26aa270
+
+#DataCleaning #Excel #PowerQuery #DataTransformation #MicrosoftExcel #GitHub #DataAnalysis
