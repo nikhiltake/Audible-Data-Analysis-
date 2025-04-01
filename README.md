@@ -42,8 +42,6 @@ This project focuses on cleaning and standardizing Audible audiobook data using 
 
 📁 Data/ → Raw & cleaned datasets
 
-📁 PowerQueryScripts/ → Transformation scripts used in Power Query
-
 📁 Docs/ → Project documentation and insights
 
 
